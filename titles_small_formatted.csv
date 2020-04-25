@@ -1,0 +1,306 @@
+,source,target,weight
+0,Founder,Product and Strategy Consultant,1
+1,Product and Strategy Consultant,Founder,1
+2,Founder,Vice President Product,1
+3,Vice President Product,Client Product Manager,1
+4,Client Product Manager,Product Manager,1
+5,Product Manager,Program Manager,1
+6,Program Manager,Founder,1
+7,Senior Solutions Architect,Senior Software Engineer,1
+8,Staff Software Engineer,Software Developer,1
+9,Product,Founder & CEO,1
+10,Founder & CEO,Senior Expert Advisor,1
+11,Senior Expert Advisor,Advisor,1
+12,Advisor,Co-founder & Vice President of Product,1
+13,Co-founder & Vice President of Product,Advisor,1
+14,Advisor,Board Member  The Board of Regents,1
+15,Board Member  The Board of Regents,Vice President of Product  AIM & Messaging,1
+16,Vice President of Product  AIM & Messaging,CEO and Founder,1
+17,CEO and Founder,Product Manager & New Business Development Manager,1
+18,Product Manager & New Business Development Manager,Director of Business Development,1
+19,Director of Business Development,Marketing Manager,1
+20,Senior Director  Ignite,Director  Ignite,1
+21,Director  Ignite,Vice President Product (Interim),1
+22,Vice President Product (Interim),Senior Director Agile Portfolio Mgt.,1
+23,Senior Director Agile Portfolio Mgt.,Senior Product Manager  SaaS,1
+24,Senior Product Manager  SaaS,Senior Product Manager  Revenue Cycle Analytics,1
+25,Senior Product Manager  Revenue Cycle Analytics,President & Product Management Consultant,1
+26,President & Product Management Consultant,Board Member,1
+27,Board Member,Director  Project Development,1
+28,Director  Project Development,Independent Consultant,1
+29,Independent Consultant,Co-Founder & Director of Product Management,1
+30,Co-Founder & Director of Product Management,Consultant,1
+31,Senior Product Manager,Group Product Manager - Platform,1
+32,Group Product Manager - Platform,Senior Product Manager,1
+33,Senior Product Manager,Senior Software Engineer,1
+34,Senior Software Engineer,Co-founder  CTO  CEO,1
+35,Co-founder  CTO  CEO,Founder,1
+36,Founder,Co-founder,1
+37,Co-founder,Co-founder / Software developer,1
+38,Co-founder / Software developer,Owner  Web Developer,1
+39,Owner  Web Developer,Web Developer  Product Manager  Software Engineer,1
+40,Consultant / Contractor,Product Management,1
+41,Product Management,Product Development,1
+42,Product Development,Web Developer,1
+43,Web Developer,Programmer/Analyst,1
+44,Product Manager,VP  Product,1
+45,VP  Product,Senior Director  Product,1
+46,Senior Director  Product,Co-founder & CEO,1
+47,Co-founder & CEO,Senior Director  Product,1
+48,Senior Director  Product,Director  Product Management,1
+49,Director  Product Management,Producer,1
+50,Chief Architect  Oracle Communications Collab Cloud,Board Member,1
+51,Board Member,Customer Business Transformation,1
+52,Customer Business Transformation,Founder and Chief Technology Officer,1
+53,Founder and Chief Technology Officer,Director  Technology and Product Strategy,1
+54,Director  Technology and Product Strategy,Co-Founder and Chief Executive Officer,1
+55,Co-Founder and Chief Executive Officer,Independent Consultant,1
+56,Board Member,Board Chair,1
+57,Board Chair,Co-Founder,1
+58,Co-Founder,Co-Founder and Treasurer / Vice President Central Africa,1
+59,Co-Founder and Treasurer / Vice President Central Africa,Advisory Board member,1
+60,Advisory Board member,Board Chair,1
+61,Board Chair,Board Member,1
+62,Board Member,Founder and CEO,1
+63,Founder and CEO,Board Member,1
+64,Board Member,Consultant,1
+65,Editor in Chief,Editorial Director  Yahoo Tech,1
+66,Editorial Director  Yahoo Tech,Director of Developer Relations,1
+67,Director of Developer Relations,Editor-at-large,1
+68,Editor-at-large,Columnist,1
+69,Columnist,Editor  Red Herring Online,1
+70,Editor  Red Herring Online,Editor  CNET.com,1
+71,Editor  CNET.com,Editor-in-Chief,1
+72,Editor-in-Chief,Executive Editor,1
+73,Executive Editor,Editor,1
+74,Editor,Executive editor,1
+75,Vice President Apache Roller,Software Engineer,1
+76,Software Engineer,Lead Back-end Developer,1
+77,Lead Back-end Developer,OSLC Specification Lead,1
+78,OSLC Specification Lead,Social Software Architect,1
+79,Social Software Architect,Book Author  RSS and Atom in Action,1
+80,Senior Dir. Product Management - Einstein Next Best Action & Lightning Flow,Senior Dir. Product Management - Next Best Action,1
+81,Senior Dir. Product Management - Next Best Action,CEO and CPO,1
+82,CEO and CPO,CEO and Chief Product Officer,1
+83,CEO and Chief Product Officer,CEO and Head of Product Management,1
+84,CEO and Head of Product Management,Board of Directors,1
+85,Board of Directors,President and Head of Development,1
+86,President and Head of Development,Vice President Product Development,1
+87,Vice President Product Development,General Manager  Search Business Unit,1
+88,General Manager  Search Business Unit,Director of Product Management  Netscape Navigator,1
+89,Director of Product Management  Netscape Navigator,Senior Program Manager  Microsoft Exchange,1
+90,Vice President Product-Solution-Developer Marketing,Senior Director  PaaS Marketing,1
+91,Senior Director  PaaS Marketing,Director  Platform Marketing,1
+92,Director  Platform Marketing,Senior Director  Product Marketing,1
+93,Senior Director  Product Marketing,Director  Product Marketing,1
+94,Director  Product Marketing,Vice President Marketing (consulting),1
+95,Vice President Marketing (consulting),Co-founder,1
+96,Co-founder,Vice President of Marketing and Sales,1
+97,Vice President of Marketing and Sales,Director  Product Marketing,1
+98,Director  Product Marketing,Founder,1
+99,Founder,Director of Product Management,1
+100,Director of Product Management,Senior Product Manager,1
+101,Senior Product Manager,Channel Marketing Manager/Product Manager,1
+102,Channel Marketing Manager/Product Manager,Product Manager,1
+103,Product Manager,IT Analyst,1
+104,Managing Director  Sacramento / Female Founder Fellow  Silicon Valley,Member,1
+105,Member,Public Speaker,1
+106,Public Speaker,Founder,1
+107,Founder,Entrepreneurs Showcase Accelerator Company - CINESHARES,1
+108,Entrepreneurs Showcase Accelerator Company - CINESHARES,Finalist,1
+109,Finalist,Instructor,1
+110,Instructor,Financial Service Professional,1
+111,Financial Service Professional,Executive Assistant,1
+112,Executive Assistant,Film Independent (Formerly IFP:West),1
+113,Film Independent (Formerly IFP:West),Lead Artist / Volunteer,1
+114,Lead Artist / Volunteer,Project Involve  Fellow,1
+115,Project Involve  Fellow,Executive Producer,1
+116,Executive Producer,Member / Fiscal Sponsorship Intern,1
+117,Member / Fiscal Sponsorship Intern,Intern,1
+118,Intern,Tutor,1
+119,Tutor,Assistant Coordinator,1
+120,Interim Technology and Business Advisor | Director of Engineering | CTO | Vice President of Engineering,Director of UI/UX Development,1
+121,Director of UI/UX Development,Director of Software Development  Customer Operations,1
+122,Director of Software Development  Customer Operations,Director of Software Development - Web Services,1
+123,Director of Software Development - Web Services,Lead Architect/Director of Fund Analysis/Data Scientist,1
+124,Lead Architect/Director of Fund Analysis/Data Scientist,Director/Partner,1
+125,Director/Partner,Engineering Manager,1
+126,Engineering Manager,Lead Software Engineer,1
+127,Director - Hosting and Cloud Engineering,Director,1
+128,Director,Vice President Security and Infrastructure,1
+129,Vice President Security and Infrastructure,Consulting System Architect,1
+130,Consulting System Architect,President/Consultant,1
+131,President/Consultant,Director of Infrastructure operations and engineering,1
+132,Director of Infrastructure operations and engineering,Senior Network Engineer,1
+133,Senior Network Engineer,Network Engineer,1
+134,Network Engineer,Systems Engineeer,1
+135,Staff Operations Engineer,Operations Lead,1
+136,Operations Lead,Operations Manager,1
+137,Life Coach and Agile advocate and software guy,Software Development Engineer & Scrum Master,1
+138,Software Development Engineer & Scrum Master,Software Development Consultant,1
+139,Software Development Consultant,COMPLETED NOTABLE ENGAGEMENTS:,1
+140,COMPLETED NOTABLE ENGAGEMENTS:,Vice President Software,1
+141,Vice President Software,COMPLETED NOTABLE ENGAGEMENTS:,1
+142,COMPLETED NOTABLE ENGAGEMENTS:,ADDITIONAL CLIENT LIST,1
+143,Product Line Manager  World Wide Customer Care Business Platforms,Customer Service and Support  IT Business Analyst Leader,1
+144,Customer Service and Support  IT Business Analyst Leader,Director  EMEA Corporate Sales  Services and Support,1
+145,Director  EMEA Corporate Sales  Services and Support,Manager  Global Services Japan / Asia Pacific,1
+146,Manager  Global Services Japan / Asia Pacific,Software Product Marketing Manager,1
+147,Software Product Marketing Manager,Senior Technical Marketing Engineer,1
+148,Senior Technical Marketing Engineer,Software Technical Marketing,1
+149,Software Technical Marketing,ASIC Design Center Engineer (Military ASIC Division),1
+150,Process Improvement Consultant - Enterprise Portfolio Office,Chief of Staff   Emerging Markets Cisco TAC,1
+151,Chief of Staff   Emerging Markets Cisco TAC,Manager  Advance Services,1
+152,Manager  Advance Services,Manager  Technical Support,1
+153,Manager  Technical Support,Network Consulting Engineer - Team Lead,1
+154,Network Consulting Engineer - Team Lead,Network Engineer,1
+155,Unix System Administrator,IT Specialist,1
+156,Senior Director of Innovation & Strategy,PIM Working Group Chair,1
+157,PIM Working Group Chair,Deputy Area Director,1
+158,Deputy Area Director,Director of Engineering,1
+159,Director of Engineering,Director  Technology & Strategy,1
+160,Director  Technology & Strategy,Network Solutions Architect,1
+161,Network Solutions Architect,Technical Leader,1
+162,Technical Leader,Customer Support Representative,1
+163,Vice President of Services and Customer Success,Senior Director Customer Transformation  Cloud and Virtualization Group,1
+164,Senior Director Customer Transformation  Cloud and Virtualization Group,Director Customer Success Operations | Chief of Staff  Cloud Management Technology Group,1
+165,Director Customer Success Operations | Chief of Staff  Cloud Management Technology Group,Vice President of Services and Customer Operations,1
+166,Vice President of Services and Customer Operations,New Solutions Program Manager,1
+167,New Solutions Program Manager,Content and Portfolio Manager (Consultant),1
+168,Content and Portfolio Manager (Consultant),Senior Professional Services Program Manager,1
+169,Senior Professional Services Program Manager,Product Team Lead and Program Manager,1
+170,Business Development Manager Internet of Things Business Unit at Cisco Systems,Strategic Product Sales Specialist Internet of Things,1
+171,Strategic Product Sales Specialist Internet of Things,Wireless Product Sales Specialist,1
+172,Wireless Product Sales Specialist,Vice President  Sales,1
+173,Vice President  Sales,Director of Business Development  Major Channels,1
+174,Director of Business Development  Major Channels,Senior Account Manager - Customer Premise Equipment,1
+175,Senior Account Manager - Customer Premise Equipment,Account Executive,1
+176,Account Executive,Director  Sales,1
+177,Director  Sales,Systems Engineer,1
+178,Systems Engineer,Technical Marketing Manager,1
+179,Technical Marketing Manager,Business Development Manager/SE Manager,1
+180,Business Development Manager/SE Manager,Senior Systems Engineer,1
+181,Senior Systems Engineer,Enterprise Account Program Manager,1
+182,Enterprise Account Program Manager,Western Region Systems Engineer,1
+183,Western Region Systems Engineer,Technical Marketing Engineer,1
+184,Technical Marketing Engineer,Systems Engineer,1
+185,Systems Engineer,Electronic Test Technician,1
+186,Enterprise Content Developer,Marketing Copywriter,1
+187,Senior Director Product Management,Assoc. Product Line Director,1
+188,Assoc. Product Line Director,Senior Product Line Manager,1
+189,Senior Product Line Manager,Director  Product Marketing,1
+190,Director  Product Marketing,Product Manager,1
+191,Product Manager,Account Director,1
+192,Account Director,Account Group Head,1
+193,Senior Software Engineer,Member Technical Staff,1
+194,Director  Product Marketing  Hortonworks Data Platform (HDP)  Cloud Solutions,Director  Integrated Product Marketing,1
+195,Director  Integrated Product Marketing,Senior Director  Product Marketing,1
+196,Senior Director  Product Marketing,Senior Manager  Sevice Provider and Strategic Partner Marketing,1
+197,Senior Manager  Sevice Provider and Strategic Partner Marketing,Director of Marketing,1
+198,Director of Marketing,Senior Manager  Product Marketing,1
+199,Senior Manager  Product Marketing,Director  Product Marketing,1
+200,Senior Director  Product Marketing - Platform,Senior Director  Product Marketing  Cloud Services,1
+201,Senior Director  Product Marketing  Cloud Services,Director  Product Marketing  Cloud Services,1
+202,Director  Product Marketing  Cloud Services,Group Manager  Cloud Services,1
+203,Group Manager  Cloud Services,Senior Manager  Product Management,1
+204,Senior Manager  Product Management,Principal Product Manager,1
+205,Principal Product Manager,Product Marketing Manager,1
+206,Product Marketing Manager,Investment Associate,1
+207,Investment Associate,Analyst,1
+208,Analyst,Senior Associate,1
+209,Senior Associate,Teaching Assistant,1
+210,Content Strategy Lead,Senior Manager of Content Marketing + Experiences,1
+211,Senior Manager of Content Marketing + Experiences,Content Strategy Consultant,1
+212,Content Strategy Consultant,Freelance Content Strategist,1
+213,Freelance Content Strategist,Web Content and Project Management Consultant,1
+214,Web Content and Project Management Consultant,Manager of KM Technologies,1
+215,Manager of KM Technologies,Web Communications Manager,1
+216,Web Communications Manager,Marketing  Sales and Media Specialist,1
+217,Marketing  Sales and Media Specialist,Marketing Manager,1
+218,Technical Leader,Technical Leader/Solution Test Engineer,1
+219,Technical Leader/Solution Test Engineer,Development Test Engineer,1
+220,Senior Solution Manager of Converged Infrastructure,Senior Solution Manager for Virtualized Multi-Tenant Data Centers,1
+221,Senior Solution Manager for Virtualized Multi-Tenant Data Centers,Solution Manager for Core and Edge Systems focused on Lossless IP Video,1
+222,Solution Manager for Core and Edge Systems focused on Lossless IP Video,Manager of System Architecture and SW Development focused on Security  VPNs  OSS  VoIP,1
+223,Manager of System Architecture and SW Development focused on Security  VPNs  OSS  VoIP,SW engineer,1
+224,SW engineer,Lead SW and FW Development Engineer,1
+225,Senior Vice President  Sales Cloud Product Management at Salesforce,Vice President Product Management at Salesforce,1
+226,Vice President Product Management at Salesforce,Senior Director  Product Management at Salesforce,1
+227,Senior Director  Product Management at Salesforce,Director  PRM Product Management,1
+228,Director  PRM Product Management,Director of Product Marketing,1
+229,Director of Product Marketing,Product Line Manager  Siebel PRM,1
+230,Product Line Manager  Siebel PRM,Senior Sales Consultant,1
+231,Member Board of Trustees,Product Manager,1
+232,Product Manager,Senior Vice President Product Management  Analytics,1
+233,Senior Vice President Product Management  Analytics,Executive Director,1
+234,Executive Director,Founder & CEO,1
+235,Founder & CEO,CEO in Residence,1
+236,CEO in Residence,CEO & CTO,1
+237,CEO & CTO,Technical Alliance Manager / System Engineer,1
+238,Technical Alliance Manager / System Engineer,Developer / Research & Development Manager,1
+239,BSA/PM - Digital Supply Chain  Software Subscription and Licensing,Solution Architect - Renewals,1
+240,Principal,Co-Founder & General Partner,1
+241,Co-Founder & General Partner,Vice President Product Planning; GM Corporate e-Commerce;,1
+242,Vice President Product Planning; GM Corporate e-Commerce;,Vice President - Strategic Business Development & VOIP Convergence,1
+243,Vice President - Strategic Business Development & VOIP Convergence,Co-Founder & Principal,1
+244,Co-Founder & Principal,Co-Founder,1
+245,Co-Founder,Vice President - Marketing & Business Dev.,1
+246,Vice President - Marketing & Business Dev.,Vice President of Corporate Development,1
+247,Vice President of Corporate Development,Strategy Consultant,1
+248,Board Member,Vice President  Google [X]  Self-Driving Cars,1
+249,Vice President  Google [X]  Self-Driving Cars,Vice President  Google Offers,1
+250,Vice President  Google Offers,Vice President  Global Online Sales,1
+251,Vice President  Global Online Sales,Director  Online Sales and Operations (Consumer Operations  Gmail  YouTube  Google Apps),1
+252,Director  Online Sales and Operations (Consumer Operations  Gmail  YouTube  Google Apps),Senior Strategy Consultant,1
+253,Senior Strategy Consultant,Deputy Campaign Manager,1
+254,Deputy Campaign Manager,Special Assistant for Operations,1
+255,Platform Architect,Chief Technical Officer,1
+256,Chief Technical Officer,Software Development Engineer,1
+257,Principal Product Manager,Product Manager,1
+258,Product Manager,Product Marketing Manager,1
+259,Senior Vice President / General Manager,Vice President,1
+260,Vice President,Board Member,1
+261,VP  Engineering and Operations,Director  Cloud Platform Engineering,1
+262,Director  Cloud Platform Engineering,Senior Manager  Cloud Engineering and Reliability,1
+263,Technology Fellow  Garwood Center of innovation,co-founder and CEO of iotracks,1
+264,co-founder and CEO of iotracks,IoT Advisor to: CIO  City of San Francisco  several IoT startups,1
+265,IoT Advisor to: CIO  City of San Francisco  several IoT startups,Senior Director Product Management  Oracle,1
+266,Senior Director Product Management  Oracle,Entrepreneur CEO and EIR at Outlook Ventures,1
+267,Entrepreneur CEO and EIR at Outlook Ventures,Flash Business. Macromedia,1
+268,Flash Business. Macromedia,OmniSky Mobile Services,1
+269,OmniSky Mobile Services,Vice President and GM Online Commerce,1
+270,Vice President and GM Online Commerce,Senior Director  Product Management and Marketing  NetObjects Inc.,1
+271,Senior Director  Product Management and Marketing  NetObjects Inc.,Product Line Manager  Interactive Media/Quicktime Group  Apple Computer Inc.,1
+272,Director of Product & Partner Marketing,Product Marketing Director  Data.com,1
+273,Product Marketing Director  Data.com,Director of Product Marketing,1
+274,Director of Product Marketing,Senior Product Marketing Manager,1
+275,Senior Product Marketing Manager,Director of Product Marketing  BRMS,1
+276,Director of Product Marketing  BRMS,Senior Product Marketing Manager  Documentum Process Suite,1
+277,Senior Product Marketing Manager  Documentum Process Suite,Partner Marketing,1
+278,Partner Marketing,Product Manager,1
+279,Product Manager,Logistics Manager,1
+280,Logistics Manager,Senior Production Planner,1
+281,Board Director,Entrepreneur-in-Residence,1
+282,Entrepreneur-in-Residence,Senior Director of Global Consumer Operations,1
+283,Senior Director of Global Consumer Operations,Senior Director  Online Sales & Operations India,1
+284,Senior Director  Online Sales & Operations India,Director  Consumer & Enterprise Operations,1
+285,Director  Consumer & Enterprise Operations,Director  Sales Finance,1
+286,Director  Sales Finance,Business Development Manager,1
+287,Business Development Manager,Senior Analyst,1
+288,Senior Analyst,Senior Associate,1
+289,Program Manager,Infosec Services Program Manager,1
+290,Infosec Services Program Manager,Security Assurance Manager,1
+291,Security Assurance Manager,Security Compliance Manager,1
+292,Security Compliance Manager,Security Compliance Analyst,1
+293,Security Compliance Analyst,Implementation Project Manager,1
+294,Implementation Project Manager,Product Management Program Manager,1
+295,Product Management Program Manager,Hosted Services Project Coordinator,1
+296,Hosted Services Project Coordinator,Hosted Services Network Escalations Manager,1
+297,Hosted Services Network Escalations Manager,level PC Applications/Network Support Analyst,1
+298,level PC Applications/Network Support Analyst,General Accountant,1
+299,General Accountant,Order Admin,1
+300,Order Admin,Logistics Coordinator,1
+301,Logistics Coordinator,Re-engineering Analyst CS Rep,1
+302,Senior Solutions Architect  Advanced Services,Technical Leader  Advanced Services,1
+303,Technical Leader  Advanced Services,Network Consulting Engineer  Advanced Services,1
+304,Network Consulting Engineer  Advanced Services,Telecommunications Specialist  IBM Global Services,1
